@@ -6,15 +6,15 @@ A solution for the "Automation Task Guidelines" from sogeti.
 
 ## Prerequisites
 
-    - node.js
-    - npm
+   - node.js
+   - npm
 
 ## Installation
 
 1. **Clone the repository**:
 
-   git clone https://github.com/TobiasReimannHamm/Sogeti
-   cd Sogeti
+   - git clone https://github.com/TobiasReimannHamm/Sogeti
+   - cd Sogeti
 
 2. **Install dependencies**:
 
