@@ -29,3 +29,4 @@ A solution for the "Automation Task Guidelines" from sogeti.
 2. **To run the tests in headless mode**
 
    npm run run-tests
+
