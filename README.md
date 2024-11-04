@@ -13,8 +13,8 @@ A solution for the "Automation Task Guidelines" from sogeti.
 
 1. **Clone the repository**:
 
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/TobiasReimannHamm/Sogeti
+   cd Sogeti
 
 2. **Install dependencies**:
 
