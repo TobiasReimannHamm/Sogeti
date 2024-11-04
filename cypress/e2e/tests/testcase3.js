@@ -4,7 +4,7 @@ Given("I navigate to sogeti main webpage", () => {
   cy.openSogetipage();
 });
 
-And("I allow all the cookies", () => {
+When("I allow all the cookies", () => {
   cy.get("button.acceptCookie").click();
 });
 
